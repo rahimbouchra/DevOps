@@ -1,6 +1,6 @@
 # AAROC DevOps
 
-This is the repository for the DevOps code which executes AAROC infrastructure. We support Ansible and Puppet.
+This is the repository for the DevOps code which executes brucellino's infrastructure. We support Ansible and Puppet.
 
 # Communicating and Collaborating.
 
